@@ -6,4 +6,8 @@ This project focuses on developing an algorithm which can enhance the present se
 
 <h2>Environment Set-up</h2>
 Following files would be required to set-up the required environment for proper working of this project:
-  
+  <ul>
+    <li>yolov3 weights: https://pjreddie.com/media/files/yolov3.weights </li>
+    <li>yolov3.cfg (given in the repo)</li>
+    <li>coco.names</li>
+  </ul>

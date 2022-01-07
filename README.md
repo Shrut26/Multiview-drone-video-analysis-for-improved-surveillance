@@ -18,7 +18,10 @@ This project focuses on developing an algorithm which can enhance the present se
                   
          
        - Tensorflow
-                  
+         
+         ```
+         pip install tensorflow
+         ```
          
        - Keras
                   

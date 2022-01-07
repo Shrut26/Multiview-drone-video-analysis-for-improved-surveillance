@@ -15,6 +15,10 @@ This project focuses on developing an algorithm which can enhance the present se
          pip3 install numpy
          ```
        - OpenCV
+         
+         ```
+         pip install opencv-python
+         ```
                   
          
        - Tensorflow
@@ -24,8 +28,9 @@ This project focuses on developing an algorithm which can enhance the present se
          ```
          
        - Keras
-                  
-         
+         ```
+         pip install keras
+         ```
        - Matplotlib
                   
          ```
